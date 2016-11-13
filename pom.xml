@@ -24,6 +24,7 @@
 		<module>spring-boot-vaadin-1</module>
 		<module>spring-boot-vaadin-navigator-1</module>
 		<module>spring-boot-vaadin-navigator-2</module>
+		<module>spring-boot-data</module>
 	</modules>
 
 	<dependencies>
